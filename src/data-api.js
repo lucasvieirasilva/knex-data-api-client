@@ -1,7 +1,7 @@
 /* eslint-disable no-underscore-dangle */
 /* eslint-disable no-param-reassign */
 
-const dataApiClient = require('data-api-client');
+const dataApiClient = require('@awslv/data-api-client');
 const util = require('util');
 const Bluebird = require('bluebird');
 

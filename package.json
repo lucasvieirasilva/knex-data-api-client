@@ -1,5 +1,5 @@
 {
-  "name": "knex-aurora-data-api-client",
+  "name": "@awslv/knex-aurora-data-api-client",
   "version": "1.10.0",
   "description": "Knex Aurora Data API Client",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markusahlstrand/knex-data-api-client.git"
+    "url": "git+https://github.com/lucasvieirasilva/knex-data-api-client.git"
   },
   "keywords": [
     "knex",
@@ -29,12 +29,12 @@
   "author": "Markus Ahlstrand",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/markusahlstrand/knex-aurora-data-api-client/issues"
+    "url": "https://github.com/lucasvieirasilva/knex-aurora-data-api-client/issues"
   },
-  "homepage": "https://github.com/markusahlstrand/knex-data-api-client#readme",
+  "homepage": "https://github.com/lucasvieirasilva/knex-data-api-client#readme",
   "dependencies": {
     "bluebird": "3.7.2",
-    "data-api-client": "1.2.0"
+    "data-api-client": "@awslv/data-api-client"
   },
   "peerDependencies": {
     "knex": "^2.1.0"

@@ -11,6 +11,10 @@ The **Knex Aurora Data API Client** is a Knex extension that supports the RDS Da
 
 Support for transactions, and nestTables is included.
 
+## Forked from markusahlstrand/knex-aurora-data-api-client
+
+This forked version of the knex-aurora-data-api-client has been modified to use this forked version of the [data-api-client](https://www.npmjs.com/package/@awslv/data-api-client) module, which has been modified to support AWS SDK v3.
+
 ## Configuration
 
 The library uses the default AWS credentials to connect to the RDS database using the data-api.
